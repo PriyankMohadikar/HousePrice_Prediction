@@ -29,5 +29,5 @@ This project predicts house prices using Machine Learning models like Linear Reg
 5. Final Prediction
 
 ## 📁 Files
-- notebook.ipynb
-- house_price_predictions.csv
+- HousePred_dataset
+- House_price_predictions.csv
